@@ -1,0 +1,11 @@
+package com.ust.javaconfig;
+
+public class HelloworldImpl implements HelloWorld {
+
+	@Override
+	public String message() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
